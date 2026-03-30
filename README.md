@@ -26,3 +26,10 @@ This project builds an interactive data dashboard using Streamlit to visualize a
 - Use real-world datasets
 - Deploy dashboard online
 - Add more advanced visualizations
+
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the app:
+   streamlit run app.py
