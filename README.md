@@ -1,4 +1,4 @@
-# data-dashboard-streamlit
+# Data-Dashboard-Streamlit
 Interactive data dashboard built with Streamlit to visualize business metrics and insights.
 
 
