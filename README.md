@@ -30,6 +30,7 @@ This project builds an interactive data dashboard using Streamlit to visualize a
 ## How to Run
 1. Install dependencies:
    pip install -r requirements.txt
-
-2. Run the app:
-   streamlit run app.py
+   
+## How to Run
+2. Run the dashboard/app:
+streamlit run app.py
